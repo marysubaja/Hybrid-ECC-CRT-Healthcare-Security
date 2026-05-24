@@ -19,11 +19,14 @@ This project implements a Hybrid ECC + CRT cryptographic framework for healthcar
   - Memory Usage
 
 ## Dataset
-Dataset used:
 
-hda.csv
+Dataset used: **Hospital Dataset for Practice (hda.csv)**
+The healthcare dataset used in this project was obtained from the publicly available Kaggle repository and was used for performance evaluation of the Hybrid ECC + CRT healthcare security framework.
 
-The dataset contains healthcare information used for encryption performance analysis.
+## Dataset Source:
+Hospital Dataset for Practice  
+https://www.kaggle.com/datasets/blueblushed/hospital-dataset-for-practice
+The dataset was used for encryption, decryption, and performance analysis of RSA, ECC, ECC-ElGamal, and Hybrid ECC+CRT algorithms.
 
 ## Project Structure
 
