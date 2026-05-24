@@ -1,0 +1,7 @@
+
+**requirements.txt**
+Create another file named **requirements.txt** and paste only this:
+pandas
+numpy
+matplotlib
+pycryptodome
